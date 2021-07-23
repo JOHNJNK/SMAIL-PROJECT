@@ -1,0 +1,6 @@
+
+        System.out.println("Encrption:");
+        System.out.println(encription.encrpfun("Hi! I am Anish! z"));
+
+        System.out.println("\nDecrption:");
+        System.out.println(decription.decrpfun("100100110/100101100/100110010/100111000/100111110/101000100/101001010/101010000/"));
